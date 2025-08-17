@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-![Banner](assets/my_banner.png) 
+![Banner](MyBanner.png) 
 <!-- Replace with your own banner image path or external link -->
 
 # 👋 Hello, I'm Hariragavendra M G  
